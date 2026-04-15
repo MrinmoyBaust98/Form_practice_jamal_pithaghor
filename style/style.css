@@ -1,0 +1,16 @@
+/* style for form */
+
+form .basic-info label {
+    display: block;
+    margin-top: 10px;
+}
+
+.from-footer {
+    margin: 20px 10px;
+    border: 2px solid tomato;
+    padding: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    background-color: azure;
+
+}
